@@ -13,3 +13,5 @@ How many times do the elements in array2 appear in array1?
 Therefore, `solve(array1, array2) = [2, 1, 0]``
 
 Good luck!
+
+[Source](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4)
